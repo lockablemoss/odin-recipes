@@ -1,0 +1,16 @@
+img {
+  height: 600px;
+  width: 600px;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  background-color: green;
+}
+
+P {
+  font-size: 18px;
+}
