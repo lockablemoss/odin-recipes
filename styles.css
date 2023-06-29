@@ -1,16 +1,14 @@
-img {
-  height: 600px;
-  width: 600px;
-}
-
 body {
-  text-align: center;
+  background-color: white;
 }
 
 h1 {
-  background-color: green;
-}
+  display: block;
+  color: lightblue;
+  background-color: black;
+  text-align: center;
+  width: 225px;
+  margin: auto;
+  padding:  10px;
 
-P {
-  font-size: 18px;
 }
